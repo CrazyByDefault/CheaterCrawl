@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  },
+  "name": "cheatercrawl",
+  "version": "1.0.0",
+  "description": "every cheater to have ever played, crawled",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CrazyByDefault",
+  "license": "ISC"
+}
