@@ -1,0 +1,3 @@
+/*
+to fetch individual details of a character ID
+*/
